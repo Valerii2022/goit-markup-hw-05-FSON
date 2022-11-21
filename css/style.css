@@ -633,6 +633,7 @@ border-width: 1px;
   display: flex;
   z-index: 100;
   opacity: 0;
+  overflow: auto;
 
   width: 100%;
   height: 100%;
